@@ -1,1 +1,1 @@
-http://tokopanel151-private26.panelshop.biz.id:2002
+http://localhost:2002
