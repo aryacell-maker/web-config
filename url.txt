@@ -1,1 +1,1 @@
-http://localhost:2002/
+http://serverpanelprivate.tokopanel.store:2097/Login.html
